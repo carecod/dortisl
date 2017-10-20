@@ -1,0 +1,10 @@
+C:\csharp\dortislem\dortislem\bin\Debug\dortislem.exe.config
+C:\csharp\dortislem\dortislem\bin\Debug\dortislem.exe
+C:\csharp\dortislem\dortislem\bin\Debug\dortislem.pdb
+C:\csharp\dortislem\dortislem\obj\Debug\dortislem.csprojResolveAssemblyReference.cache
+C:\csharp\dortislem\dortislem\obj\Debug\dortislem.Form1.resources
+C:\csharp\dortislem\dortislem\obj\Debug\dortislem.Properties.Resources.resources
+C:\csharp\dortislem\dortislem\obj\Debug\dortislem.csproj.GenerateResource.Cache
+C:\csharp\dortislem\dortislem\obj\Debug\dortislem.csproj.CoreCompileInputs.cache
+C:\csharp\dortislem\dortislem\obj\Debug\dortislem.exe
+C:\csharp\dortislem\dortislem\obj\Debug\dortislem.pdb
